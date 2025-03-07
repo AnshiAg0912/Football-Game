@@ -14,9 +14,9 @@ Step onto the virtual football field and face off against a skilled AI in this f
 1. **Launch the Game:**
    - Clone the repository to your local machine:
      ```bash
-     git clone https://github.com/AnshiAg0912/1v1-football-game.git
+     git clone https://github.com/AnshiAg0912/football27.git
      ```
    - Navigate to the project directory:
      ```bash
-     cd 1v1-football-game
+     cd football27.py
      ```
